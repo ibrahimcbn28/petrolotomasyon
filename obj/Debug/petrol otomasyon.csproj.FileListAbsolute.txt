@@ -1,0 +1,11 @@
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\bin\Debug\petrol otomasyon.exe.config
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\bin\Debug\petrol otomasyon.exe
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\bin\Debug\petrol otomasyon.pdb
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol otomasyon.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol_otomasyon.Properties.Resources.resources
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol otomasyon.csproj.GenerateResource.cache
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol otomasyon.exe
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol otomasyon.pdb
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol_otomasyon.Form1.resources
+C:\Users\Windows\OneDrive\Masaüstü\petrol otomasyon\petrol otomasyon\petrol otomasyon\obj\Debug\petrol_otomasyon.BranchManagerForm.resources
